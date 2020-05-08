@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0eca5115.chunk.css",
+    "main.js": "/static/js/main.9392bd16.chunk.js",
+    "main.js.map": "/static/js/main.9392bd16.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c3f9f15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c3f9f15.js.map",
+    "static/css/2.69121389.chunk.css": "/static/css/2.69121389.chunk.css",
+    "static/js/2.ba79e6a7.chunk.js": "/static/js/2.ba79e6a7.chunk.js",
+    "static/js/2.ba79e6a7.chunk.js.map": "/static/js/2.ba79e6a7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d3fc078721664b6dc274b1f81860e431.js": "/precache-manifest.d3fc078721664b6dc274b1f81860e431.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/static/css/2.69121389.chunk.css.map",
+    "static/css/main.0eca5115.chunk.css.map": "/static/css/main.0eca5115.chunk.css.map",
+    "static/js/2.ba79e6a7.chunk.js.LICENSE.txt": "/static/js/2.ba79e6a7.chunk.js.LICENSE.txt",
+    "static/media/Important.css": "/static/media/sani.cc53a74b.jpg",
+    "static/media/gocorona.jpg": "/static/media/gocorona.74fcc656.jpg",
+    "static/media/ind.png": "/static/media/ind.1f01d0e1.png",
+    "static/media/news1.jpg": "/static/media/news1.247853a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c3f9f15.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.ba79e6a7.chunk.js",
+    "static/css/main.0eca5115.chunk.css",
+    "static/js/main.9392bd16.chunk.js"
+  ]
+}
